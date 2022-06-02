@@ -19,6 +19,10 @@ body {
   padding-bottom: 40px;
 }
 
+.wrapper a{
+  color: rgb(23, 90, 90);
+}
+
 #content {
   padding: 20px;
   background: rgba(255,255,255,.85);
